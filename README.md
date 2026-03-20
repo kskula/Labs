@@ -1,1 +1,1 @@
-# VM-Vagrant-Ansible-Labs
+# Labs
